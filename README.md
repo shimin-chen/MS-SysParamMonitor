@@ -1,5 +1,4 @@
 ## Objectives
-
 - The goal of this tool is to provide a quick visualization of change of instrument parameters (temperature, humidity, current, etc.) over time.
 
 ## Prerequisite: 
@@ -27,4 +26,5 @@ You can try the Shiny app here: https://schen19.shinyapps.io/01_MS_Parameter_Mon
 
 ### Demo
 Plotting ambient temperature
+![Picture3](https://github.com/shimin-chen/MS-SysParamMonitor/assets/44071281/08c9e9ec-2200-4e8e-840d-471b171e4a3c)
 
