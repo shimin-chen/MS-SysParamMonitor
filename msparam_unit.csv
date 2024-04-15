@@ -1,0 +1,46 @@
+﻿ColName,Unit,SimpleName
+Date,Date,Date
+Vacuum.1..HV...mbar.,Vacuum 1 (HV) [mbar],Vacuum_1
+Vacuum.2..UHV...mbar.,Vacuum 2 (UHV) [mbar],Vacuum_2
+Vacuum.3..Fore...mbar.,Vacuum 3 (Fore) [mbar],Vacuum_3
+Vacuum.4.humidity..mbar.,Vacuum 4/humidity [mbar],Vacuum_4/humidity
+TURBO1_TEMP_BEARING_R...C.,TURBO1_TEMP_BEARING_R [°C],TURBO1_TEMP_BEARING
+TURBO1_TEMP_MOTOR_R...C.,TURBO1_TEMP_MOTOR_R [°C],TURBO1_TEMP_MOTOR
+TURBO1_TEMP_BOTTOMPART_R...C.,TURBO1_TEMP_BOTTOMPART_R [°C],TURBO1_TEMP_BOTTOMPART
+TURBO1_TEMP_POWERSTAGE_R...C.,TURBO1_TEMP_POWERSTAGE_R [°C],TURBO1_TEMP_POWERSTAGE
+TURBO1_TEMP_ELECTRONICS_R...C.,TURBO1_TEMP_ELECTRONICS_R [°C],TURBO1_TEMP_ELECTRONICS
+TURBO1_VOLT_R..V.,TURBO1_VOLT_R [V],TURBO1_VOLT
+TURBO1_CURR_R..A.,TURBO1_CURR_R [A],TURBO1_CURR
+TURBO2_TEMP_BEARING_R...C.,TURBO2_TEMP_BEARING_R [°C],TURBO2_TEMP_BEARING
+TURBO2_TEMP_MOTOR_R...C.,TURBO2_TEMP_MOTOR_R [°C],TURBO2_TEMP_MOTOR
+TURBO2_TEMP_BOTTOMPART_R...C.,TURBO2_TEMP_BOTTOMPART_R [°C],TURBO2_TEMP_BOTTOMPART
+TURBO2_TEMP_POWERSTAGE_R...C.,TURBO2_TEMP_POWERSTAGE_R [°C],TURBO2_TEMP_POWERSTAGE
+TURBO2_TEMP_ELECTRONICS_R...C.,TURBO2_TEMP_ELECTRONICS_R [°C],TURBO2_TEMP_ELECTRONICS
+TURBO2_VOLT_R..V.,TURBO2_VOLT_R [V],TURBO2_VOLT
+TURBO2_CURR_R..A.,TURBO2_CURR_R [A],TURBO2_CURR
+TURBO3_TEMP_BEARING_R...C.,TURBO3_TEMP_BEARING_R [°C],TURBO3_TEMP_BEARING
+TURBO3_TEMP_MOTOR_R...C.,TURBO3_TEMP_MOTOR_R [°C],TURBO3_TEMP_MOTOR
+TURBO3_TEMP_BOTTOMPART_R...C.,TURBO3_TEMP_BOTTOMPART_R [°C],TURBO3_TEMP_BOTTOMPART
+TURBO3_TEMP_POWERSTAGE_R...C.,TURBO3_TEMP_POWERSTAGE_R [°C],TURBO3_TEMP_POWERSTAGE
+TURBO3_TEMP_ELECTRONICS_R...C.,TURBO3_TEMP_ELECTRONICS_R [°C],TURBO3_TEMP_ELECTRONICS
+TURBO3_VOLT_R..V.,TURBO3_VOLT_R [V],TURBO3_VOLT
+TURBO3_CURR_R..A.,TURBO3_CURR_R [A],TURBO3_CURR
+Ambient.Temperature..raw....C.,Ambient Temperature (raw) [°C],Ambient_Temperature
+Ambient.Humidity.result....,Ambient Humidity result [%],Ambient_Humidity_result
+Capillary.Temperature...C.,Capillary Temperature [°C],Capillary_Temperature
+ITV.gas.pressure..actual...bar.,ITV gas pressure (actual) [bar],ITV_gas_pressure
+IOS.Heatsink.Temperature...C.,IOS Heatsink Temperature [°C],IOS_Heatsink_Temperature
+Inj..Flat..Ampl...Vpp.,Inj. Flat. Ampl. [Vpp],Inj._Flat._Ampl.
+Inj..Flat..Freq...kHz.,Inj. Flat. Freq. [kHz],Inj._Flat._Freq.
+Bent.Flat..Freq...kHz.,Bent Flat. Freq. [kHz],Bent_Flat._Freq.
+IOS.RF2.3.Freq..kHz.,IOS RF2-3 Freq [kHz],IOS_RF2-3_Freq
+Ctrap.RF.amp..Vpp.,Ctrap RF amp [Vpp],Ctrap_RF_amp
+Ctrap.AMP.current..A.,Ctrap AMP current [A],Ctrap_AMP_current
+Ctrap.Freq..MHz.,Ctrap Freq [MHz],Ctrap_Freq
+CE.pos.electronics.temperature.....act........C.,CE-pos electronics temperature (   act.   ) [°C],CE-pos_electronics_temperature
+CE.neg.electronics.temperature.....act........C.,CE-neg electronics temperature (   act.   ) [°C],CE-neg_electronics_temperature
+Analyzer.temperature.sensor...C.,Analyzer temperature sensor [°C],Analyzer_temperature_sensor
+Analyzer.temp.sensor..filtered....C.,Analyzer temp sensor (filtered) [°C],Analyzer_temp_sensor
+Analyzer.temperature..with.delay.model....C.,Analyzer temperature (with delay model) [°C],Analyzer_temperature
+CEPS.Peltier.temperature.sensor...C.,CEPS Peltier temperature sensor [°C],CEPS_Peltier_temperature_sensor
+Quad.Detector.Temperature...C.,Quad Detector Temperature [°C],Quad_Detector_Temperature
